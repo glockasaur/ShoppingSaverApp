@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ShoppingSaverApp</string>
+    <string name="AppTitle">ShoppingSaverApp</string>
+    <string name="basicCalc">Basic Calculator</string>
+    <string name="tippingCalc">Tipping Calculator</string>
+    <string name="discountCalc">Discount Calculator</string>
+    <string name="todoList">To-Do List</string>
+    <string name="couponingCalc">Couponing Calculator</string>
+    <string name="title_activity_todo_list">TodoList</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="discount_as_decimal">Discount as Decimal</string>
+    <string name="price_of_product">Price of Product</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Result ?</string>
+    <string name="discount_calculator">Discount Calculator</string>
+    <string name="bill_amount_label">Bill Amount</string>
+    <string name="tip_percent_label">Percent</string>
+    <string name="tip_amount_label">Tip</string>
+    <string name="total_amount_label">Total</string>
+    <string name="tip_percent">%</string>
+    <string name="tip_amount">$0.00</string>
+    <string name="decrease">-</string>
+    <string name="increase">+</string>
+    <string name="bill_amount">$0.00</string>
+    <string name="total_amount">$0.00</string>
+    <string name="tip_label">Tip</string>
+    <string name="total_label">Total</string>
+    <string name="enterAmt">Enter Amount</string>
+</resources>
